@@ -1,0 +1,101 @@
+ShipmentID,PatientName,MedicalDeviceType,DeliveryCoordinates,DeliveryStatus,DeliveryDate
+b655a7ae-6d66-4993-b9b0-6b5def892e42,Gerald Rodriguez,Orthotic,"70.879502,105.985078",Delayed,2026-01-18
+8f594c30-8d54-4891-a68d-eb30f85d825a,Linda Howard,Prosthetic,"-85.781425,-75.625574",Pending,2026-01-17
+f0e681f4-4eb7-43aa-93cb-9e901a99c187,Brenda Downs,Hearing Aid,"-49.276252,56.065239",In Transit,2026-01-16
+1b4b4168-6e82-4032-95e7-b27697671d5b,Jennifer Pratt,Insulin Pump,"-26.64769,-66.176141",Pending,2025-12-23
+c2c7d678-cfc6-42d5-aafe-c4aeb2a5f622,Tracy Wade,Prosthetic,"46.875917,93.165099",Failed,2025-12-25
+dc3be82a-9784-43ac-9e04-c165a079f175,Jeff Silva,Infusion Pump,"-19.788999,-175.343801",Failed,2025-12-27
+148cc485-1fd4-41f1-98b6-251fe2f5d578,Cheryl Allison,Infusion Pump,"-2.663435,19.301506",Failed,2025-12-30
+09031fbb-b7dc-4df0-bcdf-83e75655c643,Stacey Parker,Prosthetic,"-65.147902,-46.878104",Delivered,2026-01-13
+588e31bb-332e-474b-bfb2-ccc001383307,Hannah Cunningham,Prosthetic,"-25.201226,79.296997",Delayed,2025-12-23
+a79fb063-5e90-4b00-bfd9-dfb8495c42b7,Terri Mathis,CPAP Machine,"-20.240178,-168.844028",Delivered,2026-01-07
+8c52e88b-601e-4cbd-84a9-7600268606a5,Steven Ruiz,Orthotic,"-72.990311,86.566238",In Transit,2026-01-07
+48c09d70-db33-4e28-b041-b646f111ae9f,Brian Wilson,Pacemaker,"68.627381,-84.230379",Delayed,2026-01-12
+1d95726e-b174-4d28-82dd-13347212ae97,Cody Simpson,Infusion Pump,"44.623727,-25.093445",Delayed,2025-12-19
+5f450744-1306-4433-a2ff-0844ecbfeb5d,Denise Hoover,Pacemaker,"60.620055,27.870076",Delayed,2026-01-11
+03a7fa34-5f43-4f4b-a972-6914ffd32cf8,Mackenzie Allen,Pacemaker,"75.718048,11.304627",Delivered,2026-01-05
+22c0f2cd-726d-4980-96d3-4b91975f9b2f,Jeremy Edwards,CPAP Machine,"28.48966,-107.422155",Delayed,2025-12-29
+89c2a983-ff31-4d82-baea-990ca733d939,Olivia Anderson,Pacemaker,"8.428457,110.03084",In Transit,2026-01-19
+213b58bb-15eb-4173-9339-9603f3de5038,Tyler Hamilton,CPAP Machine,"-69.280346,103.839261",Failed,2026-01-12
+1514a97f-6d85-4be5-b3c4-da729ce70293,Melissa Walters,Hearing Aid,"-14.947746,-126.682014",In Transit,2026-01-14
+273deb33-1181-4c70-9a11-03527a2f2fd3,Emily Davis,Orthotic,"10.743315,-108.064945",Pending,2026-01-09
+52333a37-8e99-4c36-9283-bd113efbe4c7,Kevin Watson,Infusion Pump,"36.027037,-153.842007",Failed,2026-01-20
+31c8cce0-50a5-4932-9ee0-4f222accd029,Ms. Susan Romero DVM,Insulin Pump,"79.650564,-9.196707",Failed,2025-12-23
+0b698b9e-a8cc-47f8-b21f-977483852f75,Robert Mitchell,Hearing Aid,"-55.937801,-178.088063",Delayed,2026-01-07
+dd37d97d-f0da-4ffd-a09e-7ee3fb7ba478,William Baker,Pacemaker,"-5.585199,-22.751852",Pending,2026-01-19
+1359d33b-8b0a-4525-984f-f620c6993a9b,Rachel Klein,Orthotic,"-29.117964,66.112992",Pending,2025-12-30
+42f0eb59-10d7-4026-8ecd-ac80fde37e5c,Lauren Hicks,Insulin Pump,"-23.962167,-74.888313",Failed,2026-01-22
+ab040508-9a8d-4496-9d85-c38bbb6e7213,Cheyenne Smith,Pacemaker,"-17.713673,-124.916896",Delivered,2026-01-02
+b1ed169d-7c7d-4dd4-bb70-36ad2ccfe37f,Scott Wong,Infusion Pump,"-63.282255,-65.469084",Delivered,2025-12-20
+c6f61a72-0b38-4ff5-822c-e5b4152fb2f4,Jennifer Norris,Pacemaker,"17.077213,114.151567",Pending,2025-12-28
+9ceae1a3-67da-4ec7-8f81-ab66676e677f,Bonnie Hall,CPAP Machine,"-0.135987,157.117103",In Transit,2026-01-01
+06ed38ea-0a86-4eab-a4f8-5cadb4474c0e,Jesse Henry,Hearing Aid,"-48.896836,-34.797445",In Transit,2026-01-20
+75c6bf80-4dee-4789-be5d-4f29c8faa5d0,Kevin Wilson,Orthotic,"30.418723,-88.531922",In Transit,2026-01-09
+ca71d607-33c2-4d77-8f05-534cd0005943,Lisa Long,Prosthetic,"-82.485156,90.744823",Failed,2026-01-17
+e3729250-dab9-4c3a-8322-91f1967fb568,Laura York,Pacemaker,"64.358262,-94.264229",Delivered,2025-12-26
+aa665aa0-38d6-4985-9fcc-c03897e0daa0,Justin Craig,Prosthetic,"38.076884,-146.286736",In Transit,2026-01-22
+4ba72da2-1a65-446d-bab0-62e02efa4dc0,Timothy Hamilton,Insulin Pump,"62.882613,-39.911676",Delivered,2026-01-20
+82e58305-979d-4004-be6a-522b2e34bfba,Joel Zimmerman,Infusion Pump,"70.796515,-122.228497",Delayed,2025-12-23
+c1ecb91e-e0af-47fe-95c2-e0d89813673a,Briana Cook,Orthotic,"8.3206,40.290838",Delivered,2026-01-15
+27590dbd-9682-4424-b22d-d5e7a6cbbea9,Brian Mccarthy,CPAP Machine,"5.750224,-171.487769",Pending,2026-01-21
+5eb1b218-3b7f-4a2c-8cd9-0561d89b9575,John Salas,Prosthetic,"-71.987454,-78.562776",Pending,2026-01-13
+24406efb-c262-47cc-830c-9745e3adf71c,Matthew Charles,Prosthetic,"53.417906,158.424421",Delayed,2025-12-19
+c077c561-bbf8-4f1a-8ad0-411bbee9e064,Thomas Kelley,Prosthetic,"-22.361251,174.542529",Delivered,2026-01-06
+25301bec-50ae-46a6-ba90-c8eae20e3707,Zachary Sellers,Insulin Pump,"32.732776,11.845852",Delayed,2026-01-08
+64f47a09-e16c-47da-a670-a96ba445d7c3,Vincent Walker,Pacemaker,"-17.869046,-38.694723",Delayed,2025-12-21
+ffbbe684-fe54-4da9-b77a-26da445277af,Ryan Williams,Prosthetic,"49.11657,147.066896",Delivered,2025-12-31
+dd138ff3-d9fb-4c29-b982-2e7b6ec6aa75,Sarah Nunez,Orthotic,"62.830269,101.060992",Pending,2026-01-10
+cc5f3086-0add-47f2-92ef-3a1544e16723,Courtney Lee,Infusion Pump,"-33.080438,8.538038",Failed,2025-12-27
+12e4c07d-e533-455a-8b22-8679dc0d876b,Sabrina Holder,Orthotic,"-77.06006,-114.371469",Failed,2026-01-04
+0bcfe16a-91f6-4465-97dd-55e5c6a34417,Lindsey Williams,CPAP Machine,"72.135011,156.854712",Pending,2026-01-03
+3678a715-5ad5-40de-8d75-5108958e90af,Catherine Baker,Prosthetic,"-12.105652,40.642338",In Transit,2026-01-08
+efd4f084-35fe-40b1-b88a-90adc5e6e049,Christopher Santana,Insulin Pump,"52.782089,-74.12704",In Transit,2026-01-17
+60921979-8dab-4c13-b671-3b419dd0dfa5,Justin Clarke DDS,Hearing Aid,"-26.236966,141.093531",Pending,2026-01-04
+f498394d-37f9-48e1-866f-99e1410f484a,Nicholas Dawson,Insulin Pump,"-31.558167,155.348807",Delayed,2026-01-02
+cd85c177-de84-429f-8861-cf8210cb6067,Julie Baker,Prosthetic,"51.133379,71.45654",Pending,2026-01-20
+1a1c443a-0d3c-448e-9264-adeae2e61868,Alyssa Fleming,Infusion Pump,"35.816832,-26.364299",Failed,2026-01-13
+9d8ba973-c49d-4d66-aed1-7be79e6f7330,Christy Delacruz,CPAP Machine,"75.374037,-13.151805",In Transit,2025-12-21
+2c279b3e-416f-4916-a101-2fa2b855f2f2,Julia Hunter,Infusion Pump,"26.421803,151.511735",Delivered,2026-01-21
+691d237d-fbf4-4274-87f3-8c1361e45daf,Kara Allison,Insulin Pump,"29.824413,-81.801494",Delayed,2026-01-03
+f3c3323b-a3fe-48f0-ae7b-228c3ba2745e,Bradley Payne,Prosthetic,"55.851551,78.163947",Failed,2026-01-10
+169baded-9abb-44df-bb35-7af86e3ae890,Mary Cooper,Orthotic,"-11.461348,-147.763336",Pending,2026-01-08
+3b66e59e-40e5-45d8-8517-42824f7def4a,Anthony Mathis,Hearing Aid,"21.868844,-155.321211",Failed,2025-12-28
+a48a5e6c-0b12-48c5-b1f1-60300199011a,Laurie Cox,Insulin Pump,"18.226233,-126.2496",In Transit,2026-01-02
+c10f04f7-c51b-48f2-b13c-b398e8539de1,Brandon Rush,Insulin Pump,"35.225533,-84.003294",Failed,2025-12-30
+822eaced-2095-4a20-b7e4-e72df3e5f19d,David Williams,Insulin Pump,"-30.138596,41.383446",Failed,2026-01-20
+8f04a1b1-a6e4-4684-8918-eaa354a370a4,Kevin Jones,Pacemaker,"63.463807,-27.817055",Pending,2026-01-14
+e36fe92a-cfe8-4f6b-9717-30f51b5c0444,April Hudson PhD,Pacemaker,"40.659919,-41.828157",Delivered,2025-12-30
+bd9256c0-4d42-4f03-81d0-8ace8bef78d8,Mary Mcintosh,Prosthetic,"36.658082,86.435769",Delivered,2025-12-22
+76aea13a-022e-4661-8020-b36e17c74cf3,Crystal Mercer,Orthotic,"32.613915,-164.818018",Pending,2026-01-11
+b508db98-50f9-4de1-a83f-13daed369a1d,Betty Hogan,Pacemaker,"-89.836823,-56.91833",Delivered,2026-01-05
+aa62b7a4-829e-415c-96fb-4cb8a4d668ac,Mary Deleon,CPAP Machine,"67.281463,75.839657",Pending,2026-01-12
+91faa3b0-0aa6-4a77-9311-dde4fd762953,Robert Brown III,Pacemaker,"-70.568196,-35.054787",Delivered,2026-01-23
+cfa22d13-a169-449e-8008-cd5330aa07eb,Austin Le,Pacemaker,"-55.980986,-142.637169",Delayed,2026-01-14
+7c9c7205-d2ef-4acf-a589-3dedeb992fbb,Jennifer Wyatt,CPAP Machine,"5.509576,9.540963",Pending,2026-01-02
+b5af2c91-60bd-489e-acfe-39ced0280874,Miss Isabella Michael,Orthotic,"17.448984,-157.164042",Delivered,2025-12-28
+519a90d9-02db-478b-9a60-58642f33e949,Matthew Acosta,CPAP Machine,"12.424915,-134.314505",In Transit,2026-01-19
+5caee057-871e-45f7-b5e5-fb7843650273,Emily Alexander,Prosthetic,"31.365516,4.624623",In Transit,2026-01-09
+472656f9-5acc-49a8-9b03-b322c3057417,Cory Scott,Pacemaker,"-18.098686,-168.838988",Pending,2026-01-05
+d2b2e70b-0224-47d6-b15b-576985ef9cda,Brian Williams,Infusion Pump,"-80.27705,141.172919",Pending,2026-01-19
+167f1314-e79c-4504-8cf1-ba1c8da65425,Michael Ramirez,Hearing Aid,"36.29162,-173.276577",Pending,2025-12-28
+80c9d1dc-c775-4949-bd3d-995a251cc74a,Glenn Harvey,Orthotic,"2.412031,63.297659",Failed,2025-12-28
+2b849f7e-abc6-4615-b531-6b74224c42e3,Mikayla Taylor,Insulin Pump,"-89.514034,57.987272",Delivered,2026-01-01
+4e864a42-0d41-4669-b13b-9b8d2cbaf133,Caitlin Stout,Orthotic,"-85.404503,-150.346006",In Transit,2025-12-31
+41107d09-faad-40f9-b9c3-68d78e7d21ee,Samuel Hunt,Prosthetic,"9.176934,127.824417",Delivered,2025-12-20
+d43d8cc2-8519-4673-a6fe-b873dfdd836b,Mrs. Amanda Campbell,Orthotic,"-59.909985,-131.882161",In Transit,2026-01-12
+f7b85d90-eb31-44d5-81b6-82050a5feb69,Andrew Cole Jr.,CPAP Machine,"71.473755,-111.102471",Delayed,2026-01-01
+fa45936b-65dc-40a1-8a28-c4ee57672457,Scott Villa,CPAP Machine,"85.107585,149.828922",Pending,2026-01-03
+fecd1d15-bd15-4d5c-a2d2-1a6b6abccd79,Veronica Haas,Orthotic,"79.92676,-100.442274",Pending,2026-01-09
+dec1a91e-56ff-4e30-940b-c9c79355f587,Miguel Montgomery,CPAP Machine,"59.865347,172.807446",In Transit,2026-01-10
+6507dc0d-0849-4a84-8099-65bb35d0f531,Melissa Gray,Pacemaker,"-15.716966,115.4594",In Transit,2026-01-16
+039c50c9-17b9-4791-9a57-93bfa157b69a,Kevin Andrade,Infusion Pump,"-71.016682,82.332986",Pending,2026-01-01
+def38e1d-aa16-450c-a1d2-309a999cb924,Jorge Wilson,Pacemaker,"18.175839,-162.388179",Delivered,2026-01-16
+c37532ed-38f4-4d99-b40a-8e90d5148412,Jennifer Travis,Infusion Pump,"46.733329,-74.498362",Delayed,2026-01-19
+1f39cda5-c10b-4ecc-a48a-938906975a2e,Shawn Friedman,Infusion Pump,"-1.528331,-108.093682",In Transit,2026-01-04
+6b132a40-3d9d-46c7-b4ed-0b5b031b97d2,Michael Galloway,Orthotic,"-85.622111,105.248109",Delayed,2025-12-29
+5eb2eb8b-cf81-49ad-8e56-376e0725bd71,Jeffrey Wilson,Infusion Pump,"24.697284,-17.309032",Failed,2026-01-17
+1e92f37b-b4ba-45f8-87de-a37c996c98d1,Michael Garcia,Pacemaker,"-81.98645,165.791091",Delivered,2025-12-23
+bdbc633a-da61-4fb7-be80-c4dddeb0edc9,Whitney Nguyen,Pacemaker,"71.278926,-94.343928",Pending,2026-01-05
+a5eb4a3a-c88a-4479-a11a-effdef68cc2c,Debra Thompson,CPAP Machine,"16.206797,18.163152",Pending,2025-12-30
+213d87f7-2e29-4cdb-8ae5-3939800d040e,Rhonda May,Pacemaker,"8.088111,-88.420318",Failed,2026-01-03
+915c0ebe-2207-4870-ad57-2e1f9f4acba5,Terri Perry,Pacemaker,"88.684281,-160.057273",Delivered,2026-01-10
