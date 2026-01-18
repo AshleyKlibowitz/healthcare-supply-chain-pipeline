@@ -21,7 +21,9 @@ Real-world healthcare supply chains face two major hurdles: strict data privacy 
 
 ### 📊 Dashboard Preview
 
-<img width="853" height="827" alt="Screenshot 2026-01-18 at 2 45 14 PM" src="https://github.com/user-attachments/assets/7a869a3d-6ff2-47e8-a4ca-373fa8ed9073" />
+
+<img width="534" height="803" alt="Screenshot 2026-01-18 at 2 47 11 PM" src="https://github.com/user-attachments/assets/51dc50a8-90ea-4b25-bfa0-ca07e4cdc848" />
+
 
 *(The Streamlit interface visualizing real-time delivery status by hospital)*
 
