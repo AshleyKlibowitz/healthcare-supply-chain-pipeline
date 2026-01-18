@@ -75,9 +75,12 @@ pip install -r requirements.txt
 
 ### 2. Generate & Scrub Data Run the script to create the raw and sanitized datasets:
 
+```bash
 python generate_and_scrub.py
-
+```
 
 ### 3. Launch the Dashboard Start the Streamlit application to view the live analytics:
 
+```bash
 streamlit run app.py
+```
