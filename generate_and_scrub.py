@@ -26,6 +26,10 @@ def generate_row():
     shipment_id = str(uuid.uuid4())
     patient_name = fake.name()
     device = random.choice(DEVICE_TYPES)
+    
+    ### NEW: Generate a random Hospital ID (e.g., between 1 and 5)
+    hospital_id = random.randint(1, 5) 
+
     lat = round(float(fake.latitude()), 6)
     lon = round(float(fake.longitude()), 6)
     delivery_coords = f"{lat},{lon}"
@@ -36,6 +40,8 @@ def generate_row():
         "ShipmentID": shipment_id,
         "PatientName": patient_name,
         "MedicalDeviceType": device,
+        ### NEW: Add it to the record
+        "HospitalID": hospital_id,
         "DeliveryCoordinates": delivery_coords,
         "DeliveryStatus": status,
         "DeliveryDate": delivery_date,
